@@ -1,2 +1,2 @@
 # JavaStreamsKata
-Kata for practisinf Java Streams and Kata
+Kata for practising Java Streams and Lambas
